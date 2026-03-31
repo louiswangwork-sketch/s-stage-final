@@ -336,7 +336,7 @@ export default function App() {
             </p>
             <div className="mt-10 flex flex-wrap gap-4">
               <Button href="mailto:business@s-stage.space">
-                business@s-stage.jp
+                business@s-stage.space
               </Button>
               <Button variant="outline" href="#top">
                 Tokyo / Japan
