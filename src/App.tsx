@@ -335,7 +335,7 @@ export default function App() {
               イマーシブエンターテインメント、空間価値向上、AIコンテンツ制作、業務システム構築に関するご相談を歓迎しております。プロジェクトの構想段階からでも、お気軽にご連絡ください。
             </p>
             <div className="mt-10 flex flex-wrap gap-4">
-              <Button href="mailto:business@s-stage.jp">
+              <Button href="mailto:business@s-stage.space">
                 business@s-stage.jp
               </Button>
               <Button variant="outline" href="#top">
